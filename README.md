@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+An app to save notes locally on your device.
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
